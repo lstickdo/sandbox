@@ -1,6 +1,6 @@
 development: &defaults
   title: 'Wolf'
-  canvas_url: 'https://ucdenver.beta.instructure.com'
+  canvas_url: 'https://ivytech.beta.instructure.com'
   api_version: '1'
 
   # Canvas credentials
